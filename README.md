@@ -1,6 +1,6 @@
 # Hi there, I'm Banele! 👋
 
-🧠 Computer Engineering Student at CPUT 
+🧠 Computer Engineering Student at CPUT <br>
 💡 Full-Stack Software Engineer  
 
 🚀 Soon to start project documentation at: [Instagram (@kinem4tor)](https://www.instagram.com/kinem4tor?igsh=MW9kNjRhajVnejU2Nw%3D%3D&utm_source=qr)
