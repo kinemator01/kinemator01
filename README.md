@@ -1,4 +1,4 @@
-# Hi there, I'm Banele! 👋
+# Hi, Kinemator here👋
 
 🧠 Computer Engineering Student at CPUT <br>
 💡 Full-Stack Software Engineer  
