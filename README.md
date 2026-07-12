@@ -7,7 +7,7 @@ Welcome to my digital workshop! I specialize in building impactful, responsive w
 🏅 **RLabs x MTN Hackathon 2026 Winner**
 
 📬 **Connect with me:**
-* 🌐 **Live Portfolio:** [Explore my work & projects](https://kinemator01.github.io/BetaBuilds/) <!-- Replace with your actual GitHub Pages deployment URL -->
+* 🌐 **Live Portfolio:** [Explore my work & projects](https://kinemator01.github.io/myportfolio/HTML/index.html) <!-- Replace with your actual GitHub Pages deployment URL -->
 * 📸 **Project Documentation:** [Follow my software engineering journey on Instagram (@kinem4tor)](https://www.instagram.com/kinem4tor?igsh=MW9kNjRhajVnejU2Nw%3D%3D&utm_source=qr)
 
 ---
