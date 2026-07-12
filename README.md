@@ -7,6 +7,7 @@ Welcome to my digital workshop! I specialize in building impactful, responsive w
 🏅 **RLabs x MTN Hackathon 2026 Winner**
 
 📬 **Connect with me:**
+* 🌐 **Live Portfolio:** [Explore my work & projects](https://kinemator01.github.io/BetaBuilds/) <!-- Replace with your actual GitHub Pages deployment URL -->
 * 📸 **Project Documentation:** [Follow my software engineering journey on Instagram (@kinem4tor)](https://www.instagram.com/kinem4tor?igsh=MW9kNjRhajVnejU2Nw%3D%3D&utm_source=qr)
 
 ---
@@ -41,7 +42,7 @@ A youth-run web agency making professional, affordable web placement accessible 
 
 ### ⚙️ Backend, Systems & Databases
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
