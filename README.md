@@ -14,7 +14,7 @@ Welcome to my digital workshop! I specialize in building impactful, responsive w
 
 ## 🚀 Featured Projects
 
-### 🛠️ WST Training Matrix (`Production System`)
+### 🛠️ WST Internal Platform (`Production System`)
 An enterprise-grade management platform built as a sole developer. Full-stack implementation featuring a modern frontend, robust API, and secure database architecture. Now in active daily production use.
 * **Tech Stack:** `React` • `Node.js` • `Express` • `SQLite` • `JWT Auth`
 
