@@ -1,6 +1,6 @@
 # Eita 🤙, Kinemator here
 
-### 🧠 Computer Engineering Student at CPUT | 💡 Full-Stack Software Engineer  
+### 🧠 Computer Engineering Student at CPUT | 💡 Full-Stack Software Engineer 
 
 Welcome to my digital workshop! I specialize in building impactful, responsive web and application solutions. Currently building software as an **Intern @ Westside Trading** and helping local small businesses establish an online presence as the **Founder of BetaBuilds**.
 
