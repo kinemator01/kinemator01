@@ -1,4 +1,4 @@
-# Eita 🤙, Kinemator here
+# Eita 🤙, Kinemator here,
 
 ### 🧠 Computer Engineering Student at CPUT | 💡 Full-Stack Software Engineer 
 
